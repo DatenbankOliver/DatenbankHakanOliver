@@ -3,5 +3,5 @@
 - Zuerst das archiv entpacken
 - Mit eclipse starten
 - dann die libary einbinden
-- dann comilieren
+- dann compilieren
 - starten
