@@ -1,7 +1,8 @@
 # DatenbankHakanOliver
 
+Archiv Datum: 24.05.2018
+
 - Zuerst das archiv entpacken
-- Mit eclipse starten
-- dann die libary einbinden
+- das Video schauen
 - dann compilieren
 - starten
